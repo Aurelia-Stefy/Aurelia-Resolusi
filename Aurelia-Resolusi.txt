@@ -4,3 +4,4 @@ Resolusi
 - Memahami struktur pemrograman
 - Membuat website
 - Memahami EXAMPP
+- Membuat wedding web
