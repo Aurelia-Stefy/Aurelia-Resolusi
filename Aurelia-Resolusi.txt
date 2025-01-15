@@ -1,3 +1,6 @@
 Resolusi
 - Belajar pemrograman lebih dalam
 - Memahami database
+- Memahami struktur pemrograman
+- Membuat website
+- Memahami EXAMPP
